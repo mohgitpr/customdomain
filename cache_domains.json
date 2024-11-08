@@ -5,6 +5,11 @@
 			"description": "CDN for kaspersky",
 			"domain_files": ["kaspersky.txt"]
 		},
+        {
+			"name": "pubgmobile",
+			"description": "CDN for PUBG Mobile",
+			"domain_files": ["pubgmobile.txt"]
+		},
 		{
 			"name": "arenanet",
 			"description": "CDN for guild wars, HoT",
