@@ -6,6 +6,11 @@
 			"domain_files": ["kaspersky.txt"]
 		},
         {
+			"name": "ubuntu",
+			"description": "CDN for ubuntu",
+			"domain_files": ["ubuntuupdate.txt"]
+		},
+        {
 			"name": "pubgmobile",
 			"description": "CDN for PUBG Mobile",
 			"domain_files": ["pubgmobile.txt"]
